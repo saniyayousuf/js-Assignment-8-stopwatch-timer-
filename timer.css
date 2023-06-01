@@ -1,0 +1,83 @@
+body{
+    background-image: url('photo-1620503374956-c942862f0372.jpg');
+    background-size: cover;
+
+}
+.border{
+    background-image:url('download.jpg');
+    background-size:cover;
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin: 0px auto;
+    box-shadow: -10px 10px 10px brown   ;
+}
+.inner_border{
+    height: 230px;
+    width: 300px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: 4px double white;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.heading1{
+    color: #251f51;
+    margin: 0px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin:10px 10px;
+
+}
+.div1{
+    height: 100px;
+    width:  250px;
+    border: 3px dashed white;
+    margin-left: 25px;
+    border-radius: 25px;
+    margin-top: 50px; 
+}
+p{
+    color: white;
+    font-size: 35px;
+}
+.para{
+    font-size: xx-small;
+    color: #8d363a;
+    margin-top: 15px;
+    
+}
+
+/**********buttons***********/
+.buttons{
+    border: 2px solid transparent;
+    height: 100px;
+    width: 500px;
+    margin-top: 180px;
+    margin-left: -70px;
+    position: fixed
+}
+.btn1 {
+  height: 50px;
+  width: 60px;
+  border-radius: 10px;
+  margin: 20px 50px;
+  
+}
+.btn2 {
+    height: 50px;
+    width: 60px;
+    border-radius: 10px;
+    margin: 20px 50px;
+  }
+.btn3 {
+    height: 50px;
+    width: 60px;
+    border-radius: 10px;
+    margin: 20px 50px;
+  }
+i{
+    padding: 15px 2px;
+}
